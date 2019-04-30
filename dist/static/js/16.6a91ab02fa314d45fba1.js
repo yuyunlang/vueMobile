@@ -160,7 +160,7 @@ exports.default = {
 
 "use strict";
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('div',{staticClass:"container",staticStyle:{"overflow":"scroll","min-height":"100vh","width":"100vw","background":"#fff"}},[_c('div',{staticClass:"col-md-10 col-md-offset-1"},[_vm._m(0),_vm._v(" "),_vm._m(1),_vm._v(" "),_c('div',{staticClass:"text-center"},[_c('vue2-org-tree',{attrs:{"name":"test","data":_vm.data,"horizontal":_vm.horizontal,"collapsable":_vm.collapsable,"label-class-name":_vm.labelClassName,"render-content":_vm.renderContent},on:{"on-expand":_vm.onExpand,"on-node-click":_vm.onNodeClick}})],1)])])])}
-var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"page-header"},[_c('h2',{staticStyle:{"text-align":"center","margin":"20px","font-size":"24px"}},[_vm._v("乐成组织架构图")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('p',[_c('br')])}]
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"page-header"},[_c('h2',{staticStyle:{"text-align":"center","margin":"20px","font-size":"24px"}},[_vm._v("华奥组织架构图")])])},function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('p',[_c('br')])}]
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ __webpack_exports__["a"] = (esExports);
 
@@ -297,10 +297,10 @@ Object.defineProperty(exports, "__esModule", {
 });
 var org = exports.org = [{
     "id": 1,
-    "label": "乐成集团",
+    "label": "华奥星空",
     "children": [{
         "id": 2,
-        "label": "集团本部(114人)",
+        "label": "公司本部(114人)",
         "children": [{
             "id": 33,
             "label": "人力资源中心(4人)",
@@ -462,7 +462,7 @@ var org = exports.org = [{
                 "children": null
             }, {
                 "id": 710,
-                "label": "集团CIO兼老年公司副总裁",
+                "label": "集团CIO副总裁",
                 "children": null
             }]
         }, {
@@ -620,7 +620,7 @@ var org = exports.org = [{
             "label": "建设中心(45人)",
             "children": [{
                 "id": 1195,
-                "label": "乐成中心项目部",
+                "label": "华奥星空项目部",
                 "children": [{
                     "id": 1200,
                     "label": "工程总监",
@@ -956,7 +956,7 @@ var org = exports.org = [{
             "label": "集团办公楼、员工宿舍物业服务项目",
             "children": [{
                 "id": 76,
-                "label": "集团办公楼员工宿舍双桥1725",
+                "label": "集团办公楼员工宿舍",
                 "children": [{
                     "id": 296,
                     "label": "客服经理",
@@ -1405,10 +1405,10 @@ var org = exports.org = [{
             }]
         }, {
             "id": 16,
-            "label": "乐成中心物业服务项目",
+            "label": "华奥星空物业服务项目",
             "children": [{
                 "id": 58,
-                "label": "乐成中心项目",
+                "label": "华奥星空项目",
                 "children": [{
                     "id": 100,
                     "label": "安保部",
@@ -1655,7 +1655,7 @@ var org = exports.org = [{
                     }]
                 }, {
                     "id": 128,
-                    "label": "乐成幼儿园",
+                    "label": "华奥星空",
                     "children": [{
                         "id": 1239,
                         "label": "媒体经理",
@@ -1739,7 +1739,7 @@ var org = exports.org = [{
                 "label": "管理班子",
                 "children": [{
                     "id": 415,
-                    "label": "乐成教育管理有限公司董事长兼总经理",
+                    "label": "华奥星空有限公司董事长兼总经理",
                     "children": null
                 }]
             }]
@@ -1748,7 +1748,7 @@ var org = exports.org = [{
             "label": "YERI",
             "children": [{
                 "id": 463,
-                "label": "Project Manager 乐成教育工作坊项目经理",
+                "label": "Project Manager 华奥星空工作坊项目经理",
                 "children": null
             }, {
                 "id": 464,

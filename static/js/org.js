@@ -1,7 +1,7 @@
 export const org = [
     {
         "id": 1,
-        "label": "乐成集团",
+        "label": "华奥星空",
         "children": [
             {
                 "id": 2,
@@ -211,7 +211,7 @@ export const org = [
                             },
                             {
                                 "id": 710,
-                                "label": "集团CIO兼老年公司副总裁",
+                                "label": "集团CIO副总裁",
                                 "children": null
                             }
                         ]
@@ -428,7 +428,7 @@ export const org = [
                         "children": [
                             {
                                 "id": 1195,
-                                "label": "乐成中心项目部",
+                                "label": "华奥星空项目部",
                                 "children": [
                                     {
                                         "id": 1200,
@@ -863,7 +863,7 @@ export const org = [
                         "children": [
                             {
                                 "id": 76,
-                                "label": "集团办公楼员工宿舍双桥1725",
+                                "label": "集团办公楼员工宿舍",
                                 "children": [
                                     {
                                         "id": 296,
@@ -1450,11 +1450,11 @@ export const org = [
                     },
                     {
                         "id": 16,
-                        "label": "乐成中心物业服务项目",
+                        "label": "华奥星空物业服务项目",
                         "children": [
                             {
                                 "id": 58,
-                                "label": "乐成中心项目",
+                                "label": "华奥星空项目",
                                 "children": [
                                     {
                                         "id": 100,
@@ -1774,7 +1774,7 @@ export const org = [
                                     },
                                     {
                                         "id": 128,
-                                        "label": "乐成幼儿园",
+                                        "label": "华奥星空",
                                         "children": [
                                             {
                                                 "id": 1239,
@@ -1882,7 +1882,7 @@ export const org = [
                                 "children": [
                                     {
                                         "id": 415,
-                                        "label": "乐成教育管理有限公司董事长兼总经理",
+                                        "label": "华奥星空有限公司董事长兼总经理",
                                         "children": null
                                     }
                                 ]
@@ -1895,7 +1895,7 @@ export const org = [
                         "children": [
                             {
                                 "id": 463,
-                                "label": "Project Manager 乐成教育工作坊项目经理",
+                                "label": "Project Manager 华奥星空项目经理",
                                 "children": null
                             },
                             {

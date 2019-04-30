@@ -4,7 +4,7 @@
     <div style="overflow:scroll;min-height:100vh;width:100vw;background:#fff;" class="container">
       <div class="col-md-10 col-md-offset-1">
         <div class="page-header">
-          <h2 style="text-align: center; margin: 20px;font-size: 24px;">乐成组织架构图</h2>
+          <h2 style="text-align: center; margin: 20px;font-size: 24px;">华奥星空组织架构图</h2>
         </div>
         <!-- <div class="row">
           <div class="col-md-8 col-md-offset-2">

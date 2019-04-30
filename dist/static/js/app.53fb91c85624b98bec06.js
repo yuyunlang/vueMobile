@@ -2346,7 +2346,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 var orgStructList = exports.orgStructList = [{
   "orgId": 1,
-  "chineseName": "乐成集团",
+  "chineseName": "华奥星空",
   "childOrgs": [{
     "orgId": 2,
     "chineseName": "集团本部",
@@ -2391,7 +2391,7 @@ var orgStructList = exports.orgStructList = [{
       "chineseName": "建设中心",
       "childOrgs": [{
         "orgId": 1195,
-        "chineseName": "乐成中心项目部",
+        "chineseName": "华奥星空项目部",
         "childOrgs": null
       }, {
         "orgId": 1196,
@@ -2548,10 +2548,10 @@ var orgStructList = exports.orgStructList = [{
       "childOrgs": null
     }, {
       "orgId": 16,
-      "chineseName": "乐成中心物业服务项目",
+      "chineseName": "华奥星空物业服务项目",
       "childOrgs": [{
         "orgId": 58,
-        "chineseName": "乐成中心项目",
+        "chineseName": "华奥星空项目",
         "childOrgs": [{
           "orgId": 100,
           "chineseName": "安保部",
@@ -2602,7 +2602,7 @@ var orgStructList = exports.orgStructList = [{
           "childOrgs": null
         }, {
           "orgId": 128,
-          "chineseName": "乐成幼儿园",
+          "chineseName": "华奥星空",
           "childOrgs": null
         }, {
           "orgId": 129,
